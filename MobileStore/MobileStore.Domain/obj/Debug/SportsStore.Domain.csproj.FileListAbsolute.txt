@@ -1,0 +1,32 @@
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\MIB\Desktop\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\MIB\Desktop\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\MIB\Desktop\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\MIB\Desktop\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
