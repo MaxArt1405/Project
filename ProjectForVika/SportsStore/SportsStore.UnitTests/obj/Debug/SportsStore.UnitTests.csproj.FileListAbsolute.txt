@@ -1,0 +1,62 @@
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.pdb
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\bin\Debug\Moq.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\bin\Debug\Ninject.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.Domain.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.WebUI.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Optimization.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Http.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\bin\Debug\WebGrease.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.Domain.pdb
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.WebUI.pdb
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\bin\Debug\Moq.pdb
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\bin\Debug\Moq.xml
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\bin\Debug\Ninject.pdb
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\bin\Debug\Ninject.xml
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Http.xml
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.pdb
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.Domain.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.WebUI.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Optimization.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Http.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Razor.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\WebGrease.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.Domain.pdb
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.WebUI.pdb
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Http.xml
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Razor.xml
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb

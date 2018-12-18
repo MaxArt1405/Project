@@ -1,0 +1,179 @@
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Moq.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Ninject.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Http.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Optimization.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Providers.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\WebGrease.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Moq.pdb
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Moq.xml
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Ninject.pdb
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Ninject.xml
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Http.xml
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.xml
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+C:\Users\MIB\Documents\Материалы по ASP.NET MVC\Pro ASP.NET MVC 4 By Adam Freeman\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\System.Web.Http.dll
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\System.Web.Optimization.dll
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\System.Web.Providers.dll
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.dll
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\WebGrease.dll
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\Moq.pdb
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\Moq.xml
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\Ninject.pdb
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\Ninject.xml
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\System.Web.Http.xml
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.xml
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+C:\Users\MIIB\Desktop\4 курс 2 семестр\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\System.Web.Http.dll
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\System.Web.Optimization.dll
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\System.Web.Providers.dll
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.dll
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\WebGrease.dll
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\Moq.pdb
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\Moq.xml
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\Ninject.pdb
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\Ninject.xml
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\System.Web.Http.xml
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.xml
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+C:\Users\MIIB\Desktop\MVC working project\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Http.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Optimization.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Providers.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\WebGrease.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Http.xml
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.xml
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\Users\MIB\Desktop\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Http.dll
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Optimization.dll
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Providers.dll
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\WebGrease.dll
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll.config
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Http.xml
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+C:\Users\Lenovo\Desktop\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
